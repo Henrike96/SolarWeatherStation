@@ -1,6 +1,6 @@
 
 
 Breite: 70mm 
-Höhe: 
+Höhe: 115 mm
 
 Breite innen front: 68 mm --> Wanddicke: 1mm
